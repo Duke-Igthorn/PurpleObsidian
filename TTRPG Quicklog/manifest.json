@@ -1,0 +1,11 @@
+{
+  "id": "ttrpg-quicklog",
+  "name": "TTRPG QuickLog",
+  "version": "0.1.15",
+  "minAppVersion": "1.5.0",
+  "description": "An Obsidian plugin to help taking quick organized campaign notes for TTRPG sessions and prep.",
+  "author": "The Duke In Purple",
+  "authorUrl": "",
+  "isDesktopOnly": false
+}
+

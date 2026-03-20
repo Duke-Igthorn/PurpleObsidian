@@ -1,0 +1,15 @@
+{
+  "name": "ttrpg-quicklog",
+  "version": "0.1.15",
+  "description": "An Obsidian plugin to help taking quick organized campaign notes for TTRPG sessions and prep.",
+  "main": "main.js",
+  "scripts": {
+    "build": "tsc -noEmitOnError false",
+    "check": "tsc --noEmit"
+  },
+  "devDependencies": {
+    "@codemirror/autocomplete": "^6.20.1",
+    "obsidian": "^1.8.3",
+    "typescript": "^5.9.2"
+  }
+}
